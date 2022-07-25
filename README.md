@@ -12,7 +12,7 @@
 ### **Python**
 - 예시
 ---
-### **Business **
+### **Business**
 - 예시
 ---
 ### **Insight**
